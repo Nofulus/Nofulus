@@ -7,7 +7,7 @@ I'm a Grade 11 IB student in Oakville, Ontario. I make YouTube videos on my chan
 ### [Donna](https://github.com/yinbri/donna): an AI recruiting coordinator you can check in 12 seconds
 *YC Startups × ElevenLabs Hackathon, University of Waterloo, Nov 2026 · Team 10*
 
-A candidate applies and Donna runs a short voice screen (ElevenLabs). Every score comes with a ▶ button that plays the exact seconds of the call it's based on. Donna then proposes an interview, but she can't book it on her own.
+A candidate applies and Donna runs a short voice screen (ElevenLabs). Every score comes with a button that plays the exact seconds of the call it's based on. Donna then proposes an interview, but she can't book it on her own.
 
 **My part: the trust and ops lane**
 - **Approval gate.** Donna never holds the founder's calendar access. [Alter](https://alterauth.com) holds the Google grant and keeps every calendar write pending until the founder approves. Tested live: a write without approval was held, approval released it, and Google sent the invite.
